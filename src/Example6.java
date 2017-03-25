@@ -1,3 +1,7 @@
+/**
+ * This program is to demonstrate Nested Try block.
+ */
+
 public class Example6
 {
 	public static void main(String[] args)
