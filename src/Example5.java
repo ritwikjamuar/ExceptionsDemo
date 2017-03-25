@@ -28,18 +28,20 @@ public class Example5
 			System.out.println("Exception occurred");
 			e.printStackTrace ();
 		}
-		catch ( ArithmeticException e )
+		/*catch ( ArithmeticException e )
 		{
 			System.out.println("task1 is completed");
 		}
 		catch ( ArrayIndexOutOfBoundsException e )
 		{
 			System.out.println("task 2 completed");
-		}
+		}*/
 
 		System.out.println("Rest of Code.");
 
 		/*
+		 * Uncomment the two multiple catch statements and try to compile the Code.
+		 *
 		 * Above code will cause Compile Time Error stating that
 		 * ArithmeticException and ArrayIndexOutOfBoundsException has been caught by Exception class.
 		 */
