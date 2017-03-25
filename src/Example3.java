@@ -22,7 +22,7 @@ public class Example3
 		System.out.println("Rest of Code.");
 
 		/*
-		 * The execution of above code begins from line 14 and terminates at line 15.
+		 * The execution of above code begins from line 19 and terminates at line 20.
 		 * Thus Console printed Output 'Beginning of Code' but not 'Rest of Code'.
 		 */
 	}
