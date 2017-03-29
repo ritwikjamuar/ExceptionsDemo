@@ -56,7 +56,7 @@ public class Example2
 			 * thus, this block will execute.
 			 */
 
-			System.out.println ("Arithmetic Exception occured.");
+			System.out.println ("Arithmetic Exception occurred.");
 			e.printStackTrace ();
 		}
 
